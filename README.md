@@ -1,6 +1,9 @@
 ## 🚀 FluxnMove Arbitrage  
 
 **FluxnMove Arbitrage** is a decentralized, AI-enhanced arbitrage trading solution built on the Move programming language. It leverages machine learning to identify and execute profitable arbitrage opportunities across multiple decentralized exchanges (DEXs) within the Move ecosystem.  
+<div align="center">
+  <img src="https://gcdnb.pbrd.co/images/4MQ4H538hNgX.png?o=1" alt="Logo" width="200">
+</div>
 
 ### 🔥 Features  
 - **Decentralized Arbitrage Detection**: Uses both on-chain and off-chain data to find profitable arbitrage opportunities across Move-based DEXs.  
