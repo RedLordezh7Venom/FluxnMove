@@ -51,7 +51,7 @@ This project is **open-source** and available under the **MIT License**.
 ### 🚀 Get Involved  
 🤝 Contributions are welcome! Feel free to open an issue or submit a pull request.  
 
-📧 Contact us: [your-email@example.com](mailto:prabhatkrishnaphoton@gmail.com)  
+📧 Contact us: [RedLord@gmail.com](mailto:prabhatkrishnaphoton@gmail.com)  
 
 🌐 More info: [Project Website](https://iridescent-piroshki-d5687b.netlify.app/dashboard)  
 
